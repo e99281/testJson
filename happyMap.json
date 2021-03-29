@@ -1,0 +1,777 @@
+{
+  "A": [
+    {
+      "agencyID": "A1",
+      "agencyName": "兒童新樂園",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "提供全國國小(含)以下兒童，持 2021 兒童月文宣品上的 QR Code、數位學生證、學生證或健保卡等免費入園、陪同家長 1 位可享免費入園（園內遊樂設施正常收費）。"
+      ],
+      "location": "臺北市士林區承德路5段55號",
+      "locationMap": "https://goo.gl/maps/ub5cPNcENkzteQMr5",
+      "contactPeople": "林惠敏 專員",
+      "contactPhone": "2833-3823 分機 211",
+      "contactMail": "e20953@metro.taipei"
+    },
+    {
+      "agencyID": "A2",
+      "agencyName": "貓空纜車",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "提供全國國小(含)以下兒童，持 2021 兒童月文宣品上的 QR Code、數位學生證、學生證或健保卡等，至貓纜各車站兌換「免費搭乘券」，當日可不限次數免費搭乘(陪同家長須另行購票)。"
+      ],
+      "location": [
+        {
+          "step": "動物園站",
+          "stepAddress": "臺北市文山區新光路2段8號",
+          "stepMap": "https://goo.gl/maps/Gg6nyeA5Yb3itega8"
+        },
+        {
+          "step": "動物園南站",
+          "stepAddress": "臺北市文山區新光路2段30之2號",
+          "stepMap": "https://goo.gl/maps/WkFdJLMgYHQ4f8Gt5"
+        },
+        {
+          "step": "指南宮站",
+          "stepAddress": "臺北市指南路3段157巷200號",
+          "stepMap": "https://goo.gl/maps/5QvqNEwftSwqvBev6"
+        },
+        {
+          "step": "貓空站",
+          "stepAddress": "臺北市指南路3段38巷35號",
+          "stepMap": "https://goo.gl/maps/eemsXccESs12NAQL7"
+        }
+      ],
+      "locationMap": "",
+      "contactPeople": "黃馨賢 專員",
+      "contactPhone": "2936-3730 分機 3553",
+      "contactMail": "e23871@metro.taipei"
+    },
+    {
+      "agencyID": "A3",
+      "agencyName": "臺北市立動物園",
+      "time": "4/4",
+      "timeRemark": "",
+      "content": [
+        "全國國小(含)以下兒童，持 2021兒 童月文宣品上的 QR Code 或身分證明文件(學生證、健保卡…等)，可享兒童及陪同家長 1 名，當日免費入園參觀。(園內搭乘遊客列車及參觀教育中心正常收費) "
+      ],
+      "location": "臺北市文山區新光路2段30號",
+      "locationMap": "https://goo.gl/maps/qvp3UeK18QURWAEt7",
+      "contactPeople": "賴彥君",
+      "contactPhone": "2938-2300 分機 605",
+      "contactMail": "wlx100@zoo.gov.tw"
+    },
+    {
+      "agencyID": "A4",
+      "agencyName": "臺北自來水園區",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童(含)，持 2021 臺北兒童月文宣品上的 QR Code 或身分證明(含數位學生證)即可免費入園，陪同大人 1 位亦享免費入園(優惠範圍不含親水體驗教育區)。"
+      ],
+      "location": "臺北市中正區思源街1號",
+      "locationMap": "https://goo.gl/maps/B2Ep4FX91ikzwhPU9",
+      "contactPeople": "沈佳玲",
+      "contactPhone": "8369-5153",
+      "contactMail": "lydiashen@water.gov.taipei"
+    },
+    {
+      "agencyID": "A5",
+      "agencyName": "國立台灣科學教育館",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童及陪同家長 1 人，持 2021 臺北兒童月文宣品上的 QR Code，可享門票免費優惠。"
+      ],
+      "location": "臺北市士林區士商路189號",
+      "locationMap": "https://goo.gl/maps/Y8GnnAi5td7puNV1A",
+      "contactPeople": "王若憶",
+      "contactPhone": "6610-1234 分機 1510",
+      "contactMail": "totora073@mail.ntsec.gov.tw"
+    },
+    {
+      "agencyID": "A6",
+      "agencyName": "臺北市立天文科學教育館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "（周一休館）",
+      "content": [
+        "4 月 4 日全國 12 歲(含)以下兒童，可免費參觀宇宙探險。",
+        "3 月 27 日至 4 月 30 日，12 歲(含)以下兒童，憑活動文宣品可免費參觀展示場。"
+      ],
+      "location": "臺北市士林區基河路363號",
+      "locationMap": "https://goo.gl/maps/U15j63LkVLEhutp6A",
+      "contactPeople": "李靜芳",
+      "contactPhone": "2831-4551 分機 505",
+      "contactMail": "miss2188tam@gmail.com"
+    },
+    {
+      "agencyID": "A7",
+      "agencyName": "台北101觀景台",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "日之天空翻轉教室 高空五感體驗旅程",
+        "迎接適合出遊的和煦春日，台北101觀光旅遊事業處推出─「天空翻轉教室」、「101觀景台小小導覽員」等分齡分眾的獨特體驗，期許觀景台不僅只是高空觀景場域，而是能讓每位旅客都有機會在此認識並感受台灣的驕傲。",
+        "每位成人購票可免費攜帶 2 位 12 歲以下兒童入場（需出示證件），贈送101專屬學習單。",
+        "每日整點開放「101觀景台小小導覽員」限時免費體驗(原價 $199)，結業即贈認證證書(活動時間：平日 12:00，假日 11:00 開始，最後場次 16:00)。",
+        "每日下午 13:00~17:00 每個整點「高空飛行教室」限時免費體驗（原價 $199，每場次約 15 分鐘），由領有飛行員執照的教練為大小朋友們揭秘駕駛艙的各項科技。",
+        "參觀88樓風阻尼球學習科學原理、101印象更有「摸得到的煙火」，透過寓教於樂的情境內容，讓孩子們從玩樂與趣味中成長。",
+        "購全票贈限量超萌恐龍造型雞蛋糕+康青龍熱飲(平日 600 名，假日 900 名)。",
+        "即日起至 6/30 日止，平日限量 600 名，假日不限名額，免費升等101樓幸福迴廊(限全票平日 300 元/週六週日 420 元)，離場「敲敲幸福鐘」，讓幸福悄悄跟著您回家。"
+      ],
+      "location": "臺北市信義區信義路5段7號89樓",
+      "locationMap": "https://g.page/101OB?share",
+      "contactPeople": "台北101觀景台客服",
+      "contactPhone": "02-8101-8898",
+      "contactMail": "service@tfc101.com.tw"
+    },
+    {
+      "agencyID": "A8",
+      "agencyName": "臺北市青少年發展處",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童，在兒童月 3/27 ~ 4/30 持臺北兒童月文宣品或數位學生證，享直排輪門票 50 元優惠。",
+        "4/4「大手拉小手，親子攀岩挑戰趣」提供 4 場次免費親子攀岩體驗（1 場次開放 15 組親子報名體驗）。",
+        {
+          "noteList": "【注意事項】",
+          "notes": [
+            "參加直排輪活動需自備直排輪鞋、安全帽、護肘、護膝、護腕(本處提供直排輪鞋及護具等租借服務)。",
+            "「大手拉小手，親子攀岩挑戰趣」須事先在青發處官網報名。",
+            "3/24 開始接受預約報名。",
+            "本優惠不得與其他優惠活動併用。"
+          ]
+        }
+      ],
+      "location": "臺北市中正區仁愛路一段17號",
+      "locationMap": "https://goo.gl/maps/c5WtER6uEhdk6gjt7",
+      "contactPeople": "尤韋勝",
+      "contactPhone": "2351-4078 分機 1111",
+      "contactMail": "mj-willy916@mail.taipei.gov.tw"
+    },
+    {
+      "agencyID": "A9",
+      "agencyName": "郵政博物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "（周一休館）",
+      "content": [
+        "國小以下兒童及陪同家長 1 人，持 2021 臺北兒童月文宣品上的 QR Code，可享門票免費優惠。"
+      ],
+      "location": "臺北市重慶南路2段45號",
+      "locationMap": "https://goo.gl/maps/bGuyYLJKphG1DG8V7",
+      "contactPeople": "林瑞珠",
+      "contactPhone": "2394-5185 分機 811",
+      "contactMail": "191125rueyju@mail.post.gov.tw"
+    },
+    {
+      "agencyID": "A10",
+      "agencyName": "順益台灣原住民博物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code 可享好禮二選一：",
+        [
+          "好禮一：兒童 1 人免費入館參觀及觀賞部落電影院，陪同家長 2 位享門票 8 折優惠(優惠價 120 元)。",
+          "好禮二：報名兒童節特別活動，可兌換原風 DIY 材料組乙份！"
+        ],
+        "不可與其他優惠方案併用。"
+      ],
+      "location": "臺北市士林區士商路189號",
+      "locationMap": "https://goo.gl/maps/Y8GnnAi5td7puNV1A",
+      "contactPeople": "教育推廣館員 陳小姐",
+      "contactPhone": "2841-2611 分機 115",
+      "contactMail": "edu@syc.com.tw"
+    },
+    {
+      "agencyID": "A11",
+      "agencyName": "國立臺灣博物館",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上的 QR Code，兒童可享門票免費優惠，陪同家長 1 人半票優惠。"
+      ],
+      "location": [
+        {
+          "step": "本館",
+          "stepAddress": "臺北市中正區襄陽路2號",
+          "stepMap": "https://goo.gl/maps/Eat7LNa6JabGUqDv7"
+        },
+        {
+          "step": "古生物館",
+          "stepAddress": "臺北市中正區襄陽路25號",
+          "stepMap": "https://goo.gl/maps/ynArfjpkFy1UztqS8"
+        },
+        {
+          "step": "南門館",
+          "stepAddress": "臺北市中正區南昌路一段1號",
+          "stepMap": "https://goo.gl/maps/sujzzYJxbzJEYoxG8"
+        },
+        {
+          "step": "鐵道部園區",
+          "stepAddress": "臺北市大同區延平北路一段2號",
+          "stepMap": "https://goo.gl/maps/D4VzDhQPqJtENbTs6"
+        }
+      ],
+      "locationMap": "",
+      "contactPeople": "陳允瑤",
+      "contactPhone": "2382-2699 分機 5465",
+      "contactMail": "yychen02@ntm.gov.tw"
+    },
+    {
+      "agencyID": "A12-1",
+      "agencyName": "北投運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "持本文宣品上的 QR Code，當天 12 歲以下學童泳池入場免費。"
+      ],
+      "location": "台北市北投區石牌路1段39巷100號",
+      "locationMap": "https://goo.gl/maps/hnrWbEbpBogGwG3H9",
+      "contactPeople": "張韻華",
+      "contactPhone": "2820-2880 分機 53",
+      "contactMail": "yunhuachang8@gmail.com"
+    },
+    {
+      "agencyID": "A12-2",
+      "agencyName": "松山運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "持本文宣品上的 QR Code，國小以下兒童免費入場，陪同家長 1 人游泳可享 80 元優惠。"
+      ],
+      "location": "臺北市松山區敦化北路1號",
+      "locationMap": "https://goo.gl/maps/49B3Hw3U3DYQ6cqb8",
+      "contactPeople": "王柏鈞",
+      "contactPhone": "6617-6789 分機 211",
+      "contactMail": "taipei.sssc@gmail.com"
+    },
+    {
+      "agencyID": "A12-3",
+      "agencyName": "中正運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或2021臺北兒童月文宣品上 QR Code，兒童游泳池可免費入場，陪同家長 1 人享 8 折優惠。"
+      ],
+      "location": "臺北市中正區信義路一段1號",
+      "locationMap": "https://goo.gl/maps/bzrcccDjnrKsGrJR8",
+      "contactPeople": "侯佳寧",
+      "contactPhone": "2396-3358 分機 659",
+      "contactMail": "monkeyhau@changjia.com.tw"
+    },
+    {
+      "agencyID": "A12-4",
+      "agencyName": "萬華運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或 2021 臺北兒童月文宣品上 QR Code，兒童可享泳池入場免費，陪同家長 1 人享 8 折優惠。",
+        "兒童包班揪團活動，揪滿 5 人開班享 9 折優惠(統一由一位家長報名)。"
+      ],
+      "location": "臺北市萬華區西寧南路6-1號",
+      "locationMap": "https://goo.gl/maps/Sit1CvEFcStLAQh68",
+      "contactPeople": "鍾佳宏 經理",
+      "contactPhone": "2375-9900 分機 613",
+      "contactMail": "venuschi1010@gmail.com"
+    },
+    {
+      "agencyID": "A12-5",
+      "agencyName": "內湖運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或 2021 臺北兒童月文宣品上 QR Code，兒童可享泳池入場免費，陪同家長 1 人免費。"
+      ],
+      "location": "臺北市內湖區洲子街12號",
+      "locationMap": "https://goo.gl/maps/cF4XQwd24bjTzLBC9",
+      "contactPeople": "余宏紋 副理",
+      "contactPhone": "2656-2869 分機 234",
+      "contactMail": "s180101@cyc.tw"
+    },
+    {
+      "agencyID": "A12-6",
+      "agencyName": "中山運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或 2021 臺北兒童月文宣品上 QR Code，兒童可享泳池入場免費，陪同家長 1 人享 8 折優惠。"
+      ],
+      "location": "臺北市中山北路二段44巷2號",
+      "locationMap": "https://goo.gl/maps/vmBYRbLSammtEKg39",
+      "contactPeople": "連子桀",
+      "contactPhone": "2581-1060 分機 236",
+      "contactMail": "s180528@cyc.tw"
+    },
+    {
+      "agencyID": "A12-7",
+      "agencyName": "南港運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或 2021 臺北兒童月文宣品上 QR Code，兒童可享泳池入場免費，陪同家長 1 人享 8 折優惠。"
+      ],
+      "location": "臺北市南港區玉成街69號",
+      "locationMap": "https://goo.gl/maps/K81YWFKG3rCG9X1v7",
+      "contactPeople": "許雅婷",
+      "contactPhone": "2653-2279 分機 231",
+      "contactMail": "070919@cyc.tw"
+    },
+    {
+      "agencyID": "A12-8",
+      "agencyName": "士林運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或2021臺北兒童月文宣品上 QR Code，兒童游泳池可免費入場，陪同家長 1 人享 8 折優惠。"
+      ],
+      "location": "台北市士林區士商路1號",
+      "locationMap": "https://goo.gl/maps/y1PPSwrBNcxuH38z8",
+      "contactPeople": "楊宜璿 經理",
+      "contactPhone": "2880-6066 分機 106",
+      "contactMail": "ymcaslsc888@gmail.com"
+    },
+    {
+      "agencyID": "A12-9",
+      "agencyName": "大同運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或 2021 臺北兒童月文宣品上的 QR Code，兒童及一位陪同家長可享泳池入場免費。",
+        "兒童報名全館球類課程、直排輪課程及游泳課程均享 8.5 折優惠。"
+      ],
+      "location": "臺北市大同區大龍街51號",
+      "locationMap": "https://goo.gl/maps/8m9Fj7w8iHWDBQwWA",
+      "contactPeople": "楊松儒",
+      "contactPhone": "2592-0055 分機 802",
+      "contactMail": "yang0925yes@hotmail.com"
+    },
+    {
+      "agencyID": "A12-10",
+      "agencyName": "文山運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "12 歲(含)以下兒童，憑 2021 臺北兒童月文宣品上的 QR Code，兒童可享泳池入場免費，陪同家長 1 人購票享 8 折優惠。"
+      ],
+      "location": "臺北市文山區興隆路三段222號",
+      "locationMap": "https://goo.gl/maps/c3WMhtdesCtXpU3BA",
+      "contactPeople": "湯淑文",
+      "contactPhone": "2230-8268 分機 231",
+      "contactMail": "100825@cyc.tw"
+    },
+    {
+      "agencyID": "A12-11",
+      "agencyName": "大安運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，憑身分證明文件或 2021 臺北兒童月文宣品上 QR Code，兒童可享泳池入場免費。"
+      ],
+      "location": "臺北市大安區辛亥路三段55號",
+      "locationMap": "https://goo.gl/maps/1KtJcbiFQoppNJFA8",
+      "contactPeople": "許佑祥 組長",
+      "contactPhone": "2377-0300 分機 231",
+      "contactMail": "041231@cyc.tw"
+    },
+    {
+      "agencyID": "A12-12",
+      "agencyName": "信義運動中心",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "全國 12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上的 QR Code，泳池兒童免費及陪同家長 1 人可享 8 折優惠。"
+      ],
+      "location": "臺北市信義區松勤街100號",
+      "locationMap": "https://goo.gl/maps/fWFYard7fGJUGzot7",
+      "contactPeople": "孫翊慈",
+      "contactPhone": [
+        "8786-1911 分機 232",
+        "0928-199398"
+      ],
+      "contactMail": "s161012@cyc.tw"
+    },
+    {
+      "agencyID": "A13",
+      "agencyName": "臺灣休閒運動管理協會",
+      "time": "3/27、3/28、4/10、4/11",
+      "timeRemark": "(每日各分上午、下午場)",
+      "content": [
+        "5 歲以上者，報名參加「兒童月戶外探索活動」，享推廣優惠價 599元/人（原價 999 元），陪同家長免費。(費用含保險、場地、器材裝備、DIY 等。)",
+        "相關資訊請搜尋 https://www.facebook.com/trsma6802 FB：臺灣休閒運動管理協會。"
+      ],
+      "location": [
+        {
+          "step": "梅居休閒農場",
+          "stepAddress": "臺北市士林區平等里平菁街43巷99號",
+          "stepMap": "https://goo.gl/maps/LW5S4eF2th1fHaJq6"
+        },
+        {
+          "step": "通訊地點",
+          "stepAddress": "台北市士林區忠誠路二段101號",
+          "stepMap": "https://goo.gl/maps/G2Civm923bUX7ZUG6"
+        }
+      ],
+      "locationMap": "",
+      "contactPeople": "楊承恩",
+      "contactPhone": "2871-8288 分機 6809",
+      "contactMail": "trsma6802@gmail.com"
+    },
+    {
+      "agencyID": "A14",
+      "agencyName": "長榮海事博物館",
+      "time": "4/2 ~ 4/4",
+      "timeRemark": "",
+      "content": [
+        "12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code，享免費入場(原價 150 元)，陪同家長門票只要 100 元優惠(原價 200 元)。",
+        "4/3 ~ 4/4 (週六、週日)，本館舉辦兒童節限定：親子尋寶解密大挑戰活動，持 2021 臺北兒童月文宣品上 QR Code，每組只要 150 元(原價 200 元)。"
+      ],
+      "location": "臺北市中正區中山南路11號",
+      "locationMap": "https://goo.gl/maps/MyfhgvnaZVJoqWy7A",
+      "contactPeople": "臧信芝",
+      "contactPhone": "2351-6699 分機 6127",
+      "contactMail": "liztsang@cyff.org.tw"
+    },
+    {
+      "agencyID": "A15",
+      "agencyName": "袖珍博物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童，持 2021 臺北兒童月文宣品上的 QR Code，兒童及陪同家長 2 人，可享 8 折優惠。"
+      ],
+      "location": "臺北市中山區建國北路一段96號B1",
+      "locationMap": "https://goo.gl/maps/bop9QNb9TMTDw9e58",
+      "contactPeople": "陳星儀",
+      "contactPhone": "2515-0583",
+      "contactMail": "mmot@ms24.hinet.net"
+    },
+    {
+      "agencyID": "A16",
+      "agencyName": "財團法人福祿文化基金會北投文物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "持 2021 臺北兒童月文宣品上的 QR Code，陪同學生入館之家長門票享 80 元優惠價(原價 120 元)。",
+        "國小以下兒童，持 2021 臺北兒童月文宣品上的 QR Code 入館，可免費兌換「明信片」一套，贈完為止。",
+        "預訂當天午膳一套，即贈送醋飲一杯。"
+      ],
+      "location": "臺北市北投區幽雅路32號",
+      "locationMap": "https://goo.gl/maps/9HK7EDw8hw6nzKxy8",
+      "contactPeople": "李育珊 經理",
+      "contactPhone": "2891-2318 分機 123",
+      "contactMail": "redface.bm@gmail.com"
+    }
+  ],
+  "B": [
+    {
+      "agencyID": "B1",
+      "agencyName": "臺北市立交響樂團",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童觀賞北市交音樂會，持 2021 臺北兒童月文宣品上的 QR Code，可到「音樂會現場北市交服務台」免費兌換「北市交 CD/DVD 」一份，數量有限兌完為止。"
+      ],
+      "location": "臺北市松山區八德路三段25號",
+      "locationMap": "https://goo.gl/maps/Z15fwmvjcSMRV9AN6",
+      "contactPeople": "蔡小姐",
+      "contactPhone": "2578-6731 分機 722",
+      "contactMail": ""
+    },
+    {
+      "agencyID": "B2",
+      "agencyName": "臺北市立國樂團",
+      "time": "4/9 及 4/17",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童，持 2021 臺北兒童月文宣品上的 QR Code，兒童及陪同家長 1 人，到「兩廳院售票系統」實體分銷點，購買臺北市立國樂團 4/9 及 4/17 的音樂會票券，可享 7 折優惠。（最低票價不予優惠）"
+      ],
+      "location": "臺北市中正區延平南路98號中山堂中正廳",
+      "locationMap": "https://goo.gl/maps/YREsPPxn3hcUNL488",
+      "contactPeople": "趙珮雯",
+      "contactPhone": "23832170 分機 255",
+      "contactMail": "peywenchao@gmail.com"
+    },
+    {
+      "agencyID": "B3",
+      "agencyName": "台北花卉村園區",
+      "time": "3/27 ~ 4/30 的假日",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童持 2021 臺北兒童月文宣品上的 QR Code，於活動日 10:00~17:00 前往「釉舍藝術工坊」，即可免費兌換「迷你素燒盆」一份。（每日限量 50 份）",
+        "憑免費兌換的「迷你素燒盆」，可享 39 元加價購參加「迷你多肉種植 DIY」活動。（任選一盆迷你多肉植物，並使用現場備妥的介質材料，完成多肉種植 DIY）。"
+      ],
+      "location": "臺北市士林區延平北路七段18-2號",
+      "locationMap": "https://goo.gl/maps/RQUYHeV73xQYhFpn9",
+      "contactPeople": "活動組專員 邱先生",
+      "contactPhone": "2810-1969 分機 17",
+      "contactMail": "study4@gardenmall.com"
+    },
+    {
+      "agencyID": "B4",
+      "agencyName": "福田園教育休閒農場",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "（每周一公休）",
+      "content": [
+        "國小以下兒童持 2021 臺北兒童月文宣品上的 QR Code，兒童及陪同家長 2 人，可享消費 9 折優惠。",
+        {
+          "noteList": "【注意事項】",
+          "notes": [
+            "本活動需於入園購票時使用，且不得與其他優惠方案活團體方案併用。",
+            "星期二到星期日 14:30 固定開放 DIY 活動加購 5 折優惠，請於入園前加購，品項以當天講師提供項目為主。"
+          ]
+        }
+      ],
+      "location": "臺北市士林區菁山路131巷18號",
+      "locationMap": "https://g.page/futianVillage-MapleSmile-BnB?share",
+      "contactPeople": "何怡陵",
+      "contactPhone": "2862-2145",
+      "contactMail": "futian.village@gmail.com"
+    },
+    {
+      "agencyID": "B5",
+      "agencyName": "關渡自然公園",
+      "time": [
+        "3/27 ~ 4/30(贈品方案)",
+        "4/11、4/18(週日親子DIY優惠)"
+      ],
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童，持 2021 臺北兒童月文宣品上 QR Code，可免費兌換「貼紙」一份。",
+        "參加 4/11 及 4/18 週日親子 DIY，須預先電話預約並報名完成，可享八折優惠。"
+      ],
+      "location": "臺北市北投區關渡路55號",
+      "locationMap": "https://goo.gl/maps/9hNxBZNDWytiX4Z19",
+      "contactPeople": "孫霖琳",
+      "contactPhone": "2858-7417 分機 211",
+      "contactMail": "education@gd-park.org.tw"
+    },
+    {
+      "agencyID": "B6",
+      "agencyName": "郭元益糕餅博物館-士林館",
+      "time": "4/2 ~ 4/5，4/10、4/11、4/17、4/18、4/24、4/25",
+      "timeRemark": "第一場 9:30、第二場 13:00、第三場 15:00",
+      "content": [
+        "北市 12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code 可免費入館，陪同家長亦可免費入館。",
+        "預約參加「臺北意象手作餅乾」活動，原價 $260 元，專案價 $200 元。",
+        "活動須事先預約。",
+        "不可與其他優惠方案併用。"
+      ],
+      "location": "臺北市士林區文林路546號4樓",
+      "locationMap": "https://goo.gl/maps/sWRrSJMwjbQ4ehCr5",
+      "contactPeople": "張麟平 館長",
+      "contactPhone": "2838-2700 分機 456",
+      "contactMail": "e05970@kuos.com.tw"
+    },
+    {
+      "agencyID": "B7",
+      "agencyName": "客家文化主題公園",
+      "time": "4/17（星期六）",
+      "timeRemark": "",
+      "content": [
+        "持 2021 臺北兒童月文宣品，在活動當天上午 11 點 30 分到下午 4 點為止， 在活動現場， 可兌換粉彩畫筆 1 組限量 50 份，一人一本文宣品兌換一份，換完為止，並且可以免費參加「快樂不解散」油紙傘彩繪活動。"
+      ],
+      "location": "寶藏巖國際藝術村",
+      "locationMap": "https://goo.gl/maps/N8jVQkqFzetZdTSPA",
+      "contactPeople": "林聖賢",
+      "contactPhone": "2369-1198 轉 512",
+      "contactMail": ""
+    },
+    {
+      "agencyID": "B8-1",
+      "agencyName": "兒童新樂園【如果兒童劇場】",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        " 12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code，現場購買如果兒童劇場之市民劇場和精緻劇場，兒童及陪同家長不限人數可享 8 折購票優惠。"
+      ],
+      "location": "臺北市士林區承德路5段55號",
+      "locationMap": "https://goo.gl/maps/VJUJpme5aBmny6BC9",
+      "contactPeople": "吳玫蓉 經理",
+      "contactPhone": "02-3343622 分機 281",
+      "contactMail": "clairejung66@gmail.com"
+    },
+    {
+      "agencyID": "B8-2",
+      "agencyName": "兒童新樂園【麗陽商場】",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        " 12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code:",
+        [
+          "大眼蝦：消費滿 200 元送棉花糖乙支(價值 50 元)。",
+          "豆豆先生：消費滿 150 元送小禮品乙份(限量 100 份，價值 10 元)。",
+          "化石先生：消費滿 100 元打九五折(特價品除外)。",
+          "瓦非屋：冰淇淋、魷魚九折。"
+        ]
+      ],
+      "location": "臺北市士林區承德路5段55號",
+      "locationMap": "https://goo.gl/maps/VJUJpme5aBmny6BC9",
+      "contactPeople": "張蕙蘭 經理",
+      "contactPhone": "2835-5500",
+      "contactMail": "pipo6941@gmail.com"
+    },
+    {
+      "agencyID": "B9",
+      "agencyName": "亞尼克夢想村",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "亞尼克夢想村陽明山店：12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code，可享飲品 1 送 1。"
+      ],
+      "location": "臺北市士林區長春街4巷481號",
+      "locationMap": "https://goo.gl/maps/7T5PdndsV4chpizV6",
+      "contactPeople": "行銷專員 郭佩雲",
+      "contactPhone": ["2862-5609","8797-8993 分機 853"],
+      "contactMail": "mkt6@yannick.com.tw"
+    },
+    {
+      "agencyID": "B10",
+      "agencyName": "搗蛋糕",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "北市國小學生兒童持 2021 臺北兒童月文宣品免費入場，參與製作免費贈送超萌、Q 彈乳酪兔子一隻（限量 200 份。）"
+      ],
+      "location": "臺北市士林區中正路187巷2號",
+      "locationMap": "https://goo.gl/maps/iLuuTQxiNpiq1ztK8",
+      "contactPeople": "何店長",
+      "contactPhone": "2882-2915",
+      "contactMail": "makeandshares@gmail.com"
+    },
+    {
+      "agencyID": "B11",
+      "agencyName": "樹火紀念紙博物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "活動期間，國小以下兒童，持 2021 臺北兒童月文宣品上的 QR Code，及【個人票】的票根，購買造紙工具組，加贈一包彩色造紙紙漿。（單筆消費限用 1 張）"
+      ],
+      "location": "臺北市中山區長安東路二段68號",
+      "locationMap": "https://goo.gl/maps/aQSCxAz31AzvnRFE7",
+      "contactPeople": "鄭靚勤 組長",
+      "contactPhone": "2507-5535 分機 12",
+      "contactMail": "museum@suhopaper.org.tw"
+    },
+    {
+      "agencyID": "B12",
+      "agencyName": "台北市立美術館",
+      "time": "4/2、4/4",
+      "timeRemark": "",
+      "content": [
+        "4/2「兒童節派對」活動，當日將舉辦一系列活動，陪伴您歡度兒童節！參加任何一項活動即可集章，將有機會獲得限定紀念品。",
+        "4/4「兒童節」當日免票。"
+      ],
+      "location": "臺北市中山區中山北路三段181號",
+      "locationMap": "https://goo.gl/maps/xSECWxZP2UYUnGaS7",
+      "contactPeople": "王瑋婷",
+      "contactPhone": "2595-7656 分機 328",
+      "contactMail": "weiting@tfam.gov.tw"
+    },
+    {
+      "agencyID": "B13",
+      "agencyName": "坤水晶玻璃工房",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童（需年滿 6 歲），持 2021 臺北兒童月文宣品上 QR Code，參加吹製玻璃體驗課程，可兌換手工造型玻璃文鎮乙份，贈完為止。",
+        "參加吹製玻璃體驗請先以電話，或上「坤水晶臉書粉絲頁」私訊預約。"
+      ],
+      "location": "臺北市信義區菸廠路88號(誠品生活松菸店2樓)",
+      "locationMap": "https://goo.gl/maps/hnQt8Yss1dhHSgd98",
+      "contactPeople": "曾宜文",
+      "contactPhone": "6636-5888 分機 1643",
+      "contactMail": "shinest.kun@msa.hinet.net"
+    },
+    {
+      "agencyID": "B14",
+      "agencyName": "趣玩烘焙坊",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以上兒童，持 2021 臺北兒童月文宣品上 QR Code 來電預約做點心（12 歲以下兒童，1 位兒童須有 1 位成人陪同才可以入場製作），即可兌換兒童節餅乾一包。"
+      ],
+      "location": "臺北市中正區博愛路138號",
+      "locationMap": "https://goo.gl/maps/uMxPk69jbaw8NgN26",
+      "contactPeople": "王心妤 店長",
+      "contactPhone": "2383-1688",
+      "contactMail": "playbakery138@gmail.com"
+    }
+  ],
+  "C": [
+    {
+      "agencyID": "C1",
+      "agencyName": "新北市立十三行博物館",
+      "time": "4/2 ~ 4/5",
+      "timeRemark": "",
+      "content": [
+        "國小(含)以下兒童持 2021 臺北兒童月文宣品上的 QR Code，至本館服務台可免費兌換「推廣品」1 份。"
+      ],
+      "location": "新北市八里區博物館路200號",
+      "locationMap": "https://goo.gl/maps/Lrgjr2d3hCiFgc6y6",
+      "contactPeople": "卜暉珊",
+      "contactPhone": "2619-1313 分機 303",
+      "contactMail": "AY0740@ntpc.gov.tw"
+    },
+    {
+      "agencyID": "C2",
+      "agencyName": "新北市客家文化園區",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童，持 2021 臺北兒童月文宣品上的 QR Code，即可免費兌換「藝術家作品圖案 L 夾」，發送完畢為止。"
+      ],
+      "location": "新北市三峽區隆恩街239號",
+      "locationMap": "https://goo.gl/maps/XeDMLWxQ8xBG8PfG8",
+      "contactPeople": "温信凱",
+      "contactPhone": "2672-9996 分機 301",
+      "contactMail": "AL7217@ntpc.gov.tw"
+    },
+    {
+      "agencyID": "C3",
+      "agencyName": "朱銘美術館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "持 2021 臺北兒童月文宣品上 QR Code 可享同行 2 人購團體票(原價 350 元，團體票 280 元)。"
+      ],
+      "location": "新北市金山區西勢湖2號",
+      "phone": "2498-9940分機1704~1708",
+      "locationMap": "https://goo.gl/maps/qvp3UeK18QURWAEt7",
+      "contactPeople": "劉燕華",
+      "contactPhone": "2498-9940 轉 1102",
+      "contactMail": "yenhua.liu@juming.org.tw"
+    },
+    {
+      "agencyID": "C4",
+      "agencyName": "新北市立黃金博物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "12 歲(含)以下兒童，持 2021 臺北兒童月文宣品上 QR Code，可享本館部分出版品特價優惠。"
+      ],
+      "location": "新北市瑞芳區金光路8號",
+      "phone": "",
+      "locationMap": "https://goo.gl/maps/tiG4qJHRDTdMhXE79",
+      "contactPeople": "劉雅馨",
+      "contactPhone": "2496-2800 分機 2890",
+      "contactMail": "AM9064@ntpc.gov.tw"
+    },
+    {
+      "agencyID": "C5",
+      "agencyName": "新北市立鶯歌陶瓷博物館",
+      "time": "3/27 ~ 4/30",
+      "timeRemark": "",
+      "content": [
+        "國小以下兒童，持 2021 臺北兒童月文宣品上 QR Code，至本館兩間教室，即享有「材料費 100 元 + 代燒費 150 元」的 8 折優惠價( 200 元)。"
+      ],
+      "location": "新北市鶯歌區文化路200號",
+      "phone": "",
+      "locationMap": "https://goo.gl/maps/2NfxyYYQUCVQMN2E9",
+      "contactPeople": "巫漢青",
+      "contactPhone": "8677-2727 分機 710、711",
+      "contactMail": "AA9974@ntpc.gov.tw"
+    }
+  ]
+}
